@@ -50,19 +50,19 @@ In this regard, this study will grant awareness to the community, nation and the
 ## Methods
 <p align="justify"> The general objective of this study is to gain a better understanding of the current state of the ecosystem in terms of ecological footprint (the measure of ecological assets required to produce the resources people need) and biocapacity (the measure of productivity of ecological assets in a specific location). 
 Specifically, it aims to: 
-1. Extract hidden knowledge about the different factors that affect the environment positively and negatively.
-2. Define the numerical details of how each individual person contributes to the exhaustion of natural resources. 
-3. Understand the implications of continuous depletion of natural resources to the future.
-4. Explain the contribution of humans and industries in different countries to the problem of ecological deficit.
-5. Figure out which countries have reserves and deficit in ecological resources and by what amount. 
+  1. Extract hidden knowledge about the different factors that affect the environment positively and negatively.
+  2. Define the numerical details of how each individual person contributes to the exhaustion of natural resources. 
+  3. Understand the implications of continuous depletion of natural resources to the future.
+  4. Explain the contribution of humans and industries in different countries to the problem of ecological deficit.
+  5. Figure out which countries have reserves and deficit in ecological resources and by what amount. 
 
 To achieve these objectives the researcher will use quantitative data analysis or deriving numerical insights from raw data and qualitative data analysis such as grounded theory which involve the following process:
-1. Data Requirement Gathering. This process involves analyzing the significance of this topic and knowing what kind of data is required to meet the objectives.
-2. Data Collection. This process includes looking for datasets that are relevant to the topic. Through the guidance of the requirements we identified, we look for different sources of data.
-3. Data Cleaning. This process includes removing unnecessary data, transforming some data into the appropriate format so that we can maintain consistency throughout the process.
-4. Data Analysis. This process involves extracting useful insights from the data. We will use Python libraries such as NumPy, Pandas and some visualization tools.
-5. Data Interpretation. This process includes summarizing the results of data analysis and transforming them into useful knowledge.
-6. Data Visualization. This process includes presenting the information  in a graphical format so that people can read and understand it easily. </p>
+  1. Data Requirement Gathering. This process involves analyzing the significance of this topic and knowing what kind of data is required to meet the objectives.
+  2. Data Collection. This process includes looking for datasets that are relevant to the topic. Through the guidance of the requirements we identified, we look for different sources of data.
+  3. Data Cleaning. This process includes removing unnecessary data, transforming some data into the appropriate format so that we can maintain consistency throughout the process.
+  4. Data Analysis. This process involves extracting useful insights from the data. We will use Python libraries such as NumPy, Pandas and some visualization tools.
+  5. Data Interpretation. This process includes summarizing the results of data analysis and transforming them into useful knowledge.
+  6. Data Visualization. This process includes presenting the information  in a graphical format so that people can read and understand it easily. </p>
 
 ## Expected Output
 <p align="justify">This research is anticipated to visualize data through EDA in calculating the world's ecological footprint. With this, the factors affecting the ecological deficit can be identified; the country which has a surplus in biocapacity over the ecosystem's regeneration; the ecological footprint agent that lacks in most nations in the world. In accordance to the datasets provided by the Global Footprint Network, et. al, will be the basis of the assumptions for the provision of solution in the identification of the said cases and more. This acknowledges the proposed habits in surpassing the numbers in a country's ecological footprint and outdo the deficiency of the lands, forest, fisheries, etc. in regards to the consumption of the exceeding population.<p>
