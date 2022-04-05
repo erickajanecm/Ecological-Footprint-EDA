@@ -49,7 +49,8 @@ In this regard, this study will grant awareness to the community, nation and the
 
 ## Methods
 <p align="justify"> The general objective of this study is to gain a better understanding of the current state of the ecosystem in terms of ecological footprint (the measure of ecological assets required to produce the resources people need) and biocapacity (the measure of productivity of ecological assets in a specific location). 
-Specifically, it aims to: 
+
+  Specifically, it aims to: 
   1. Extract hidden knowledge about the different factors that affect the environment positively and negatively.
   2. Define the numerical details of how each individual person contributes to the exhaustion of natural resources. 
   3. Understand the implications of continuous depletion of natural resources to the future.
