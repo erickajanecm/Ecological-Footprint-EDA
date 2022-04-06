@@ -70,6 +70,6 @@ To achieve these objectives the researcher will use quantitative data analysis o
 
 
 ## Data Sets
-[2016 Global Ecological Footprint](https://github.com/erickajanecm/Ecological-Footprint-EDA/files/8423381/2016.Global.Ecological.Footprint.csv)
+[2016 Global Ecological Footprint.pdf](https://github.com/erickajanecm/Ecological-Footprint-EDA/files/8427176/2016.Global.Ecological.Footprint.pdf)
 
-[Open Data Network Country Trends](https://github.com/erickajanecm/Ecological-Footprint-EDA/files/8423384/Open.Data.Network.Country.Trends.csv)
+
