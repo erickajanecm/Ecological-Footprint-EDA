@@ -1,4 +1,4 @@
-# Digging Insights about Ecological Footprint and Sustainable Development through Exploratory Data Analysis
+# Digging Insights Regarding Ecological Footprint and Sustainable Development through Exploratory Data Analysis
 by <br>
 Bello, Thom Carlo L.<br>
 Cabatay, Robert C.<br>
@@ -7,9 +7,9 @@ Macatol, Ericka Jane C.<br>
 Ronquillo, Julius P.
 
 ## Introduction
-<p align="justify"> Humanity depends on Earth for resources to fulfill their needs including food, air, water, minerals, soil, energy, plants and animals. Some of these resources are renewable and can be replaced but there will come a time that the non-renewable resources will be depleted. When people eat their food, drink water, use electronic devices and drive their car, they are contributing to the depletion of resources.</p>
+<p align="justify">Humanity depends on Earth for resources to fulfill their needs including food, air, water, minerals, soil, energy, plants and animals. Some of these resources are renewable and can be replaced but there will come a time that the non-renewable resources will be depleted. When people eat their food, drink water, use electronic devices and drive their car, they are contributing to the depletion of resources.</p>
   
-The problem of resource depletion is not necessarily limited to the consumption of the resources itself but the unsustainable and irresponsible ways people and industries use them. It starts on the households when people: 
+  The problem of resource depletion is not necessarily limited to the consumption of the resources itself but the unsustainable and irresponsible ways people and industries use them. It starts on the households when people: 
  - Leave the lights on when it is not in use which consumes unnecessary energy that cannot be regenerated.
  - Use their computers and smartphones excessively which contributes to much carbon footprint. 
  - Boils too much water when cooking or preparing something to eat or drink. 
@@ -52,10 +52,10 @@ In this regard, this study will grant awareness to the community, nation and the
 
   Specifically, it aims to: 
   1. Extract hidden knowledge about the different factors that affect the environment positively and negatively.
-  2. Define the numerical details of how each individual person contributes to the exhaustion of natural resources. 
+  2. Define the numerical details of how each individual person contributes to the exhaustion of natural resources.
   3. Understand the implications of continuous depletion of natural resources to the future.
   4. Explain the contribution of humans and industries in different countries to the problem of ecological deficit.
-  5. Figure out which countries have reserves and deficit in ecological resources and by what amount. 
+  5. Figure out which countries have reserves and deficit in ecological resources and by what amount.
 
 To achieve these objectives the researcher will use quantitative data analysis or deriving numerical insights from raw data and qualitative data analysis such as grounded theory which involve the following process:
   1. Data Requirement Gathering. This process involves analyzing the significance of this topic and knowing what kind of data is required to meet the objectives.
@@ -69,4 +69,7 @@ To achieve these objectives the researcher will use quantitative data analysis o
 <p align="justify">This research is anticipated to visualize data through EDA in calculating the world's ecological footprint. With this, the factors affecting the ecological deficit can be identified; the country which has a surplus in biocapacity over the ecosystem's regeneration; the ecological footprint agent that lacks in most nations in the world. In accordance to the datasets provided by the Global Footprint Network, et. al, will be the basis of the assumptions for the provision of solution in the identification of the said cases and more. This acknowledges the proposed habits in surpassing the numbers in a country's ecological footprint and outdo the deficiency of the lands, forest, fisheries, etc. in regards to the consumption of the exceeding population.<p>
 
 
-
+## Data Sets
+  [Global Footprint Network Country Trends](https://data.footprintnetwork.org/?fbclid=IwAR3jYld94a_DG-9sXAysClys5u3Dlig12y2OQ6Q8-EOwlP2IwwFnLP7xQkI#/countryTrends?cn=5001&type=BCpc,EFCpc)
+  
+  [2016 Global Ecological Footprint](https://www.kaggle.com/datasets/footprintnetwork/ecological-footprint)
