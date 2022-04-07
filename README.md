@@ -21,7 +21,7 @@ JARET Codes <br>
  - Emitting too much carbon dioxide and harmful chemicals that continues to warm up the Earth’s atmosphere which results in climate change.
  - Extracting and drilling too much oil and gas which ruins wildlands and disrupts wildland habitats. 
 
-The world can already feel the effects of unsustainable ways we are consuming our resources and abusing the planet. Some places in the world are experiencing water, oil and gas shortages, the species of animals becoming extinct. In the future, the impact of human activities will become even more dangerous. 
+<p align="justify">The world can already feel the effects of unsustainable ways we are consuming our resources and abusing the planet. Some places in the world are experiencing water, oil and gas shortages, the species of animals becoming extinct. In the future, the impact of human activities will become even more dangerous. 
 Many organizations, especially the United Nation are conducting and implementing programs for responsible consumption of resources. The government regulates policies that improve sustainability. Some of these solutions include: 
  - Implementing more power-efficient devices.
  - Reducing deforestation activities and tree planting programs
