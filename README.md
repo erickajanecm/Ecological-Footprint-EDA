@@ -31,25 +31,25 @@ Many organizations, especially the United Nation are conducting and implementing
  - Implementing more renewable energy equipment such as solar panels/funnels, power plants, etc. 
  - Harnessing environmental power which is very sustainable as it prevents burning of oils to produce electricity. 
 
-  It is important that people are aware of how much they are consuming and what impact they have on the environment. Ecological footprint is a way to measure resource consumption. It compares human demand on nature with the biosphere’s ability to regenerate resources and provide services. According to these measurements, in the past few years, the consumption of Earth’s resources exceeds the amount of resources it can produce globally. This basically means that people are overconsuming and exhausting resources that are for the future. We have what we called Earth’s Overshoot Day which marks the date when humanities demands for ecological resources and services in a given year exceeds what Earth can regenerate in that year. In 2021, it fell on July 29. So from July 30 to the end of the year, the people will overconsume. 
+<p align="justify">It is important that people are aware of how much they are consuming and what impact they have on the environment. Ecological footprint is a way to measure resource consumption. It compares human demand on nature with the biosphere’s ability to regenerate resources and provide services. According to these measurements, in the past few years, the consumption of Earth’s resources exceeds the amount of resources it can produce globally. This basically means that people are overconsuming and exhausting resources that are for the future. We have what we called Earth’s Overshoot Day which marks the date when humanities demands for ecological resources and services in a given year exceeds what Earth can regenerate in that year. In 2021, it fell on July 29. So from July 30 to the end of the year, the people will overconsume. 
   
-  The current human population today reached 7.9 billion, which exceeded its expectation due to the uprising of the pandemic. By 2023, the United Nations expects the population to reach 8 billion people, there is an estimation that 385,000 babies are born everyday which tells that by December the population will increase by 3,080,000. It is obvious that there will be a time that the whole world might experience the overshoot day. Its effects are unlikely good to the community and human activities that affect the ecological footprint should be minimized.
+<p align="justify">The current human population today reached 7.9 billion, which exceeded its expectation due to the uprising of the pandemic. By 2023, the United Nations expects the population to reach 8 billion people, there is an estimation that 385,000 babies are born everyday which tells that by December the population will increase by 3,080,000. It is obvious that there will be a time that the whole world might experience the overshoot day. Its effects are unlikely good to the community and human activities that affect the ecological footprint should be minimized.
 
-With these dilemmas people are experiencing, the researchers propose an activity that copes under the 12th Sustainable Development Goal — Responsible Consumption and Production. Its aim is to provide solutions that will help ease the world’s consumption and increase resources production and fasten regeneration.</p>
+<p align="justify">With these dilemmas people are experiencing, the researchers propose an activity that copes under the 12th Sustainable Development Goal — Responsible Consumption and Production. Its aim is to provide solutions that will help ease the world’s consumption and increase resources production and fasten regeneration.</p>
   
 ## Problem Statement 
 <p align="justify">The depletion of environmental resources can be attributed to overpopulation. An increase in population means more demand for the basic needs that come from nature. However, a bigger factor that contributes to exhaustion of environmental resources is the inefficient way humanity is using them. In recent years, the world consumes more than the renewable resources can regenerate, yet many people still experience hunger and shortage of supply. Although there are many different ways in which people can create positive contributions, the majority of them are not aware of their individual impact on the environment. 
 
-It is very clear that a range of issues that are very difficult to manage and regulate is contributing to resource depletion. Natural resources are continuously declining and are being used faster than they can be replenished. The lack of awareness about the current status of our ecosystem will result in continuous over-exploitation or worse running out of resources. Our actions as a society are lowering our and future generations' quality of life. 
+<p align="justify">It is comprehensible that a range of issues that are very difficult to manage and regulate is contributing to resource depletion. Natural resources are continuously declining and are being used faster than they can be replenished. The lack of awareness about the current status of our ecosystem will result in continuous over-exploitation or worse running out of resources. Our actions as a society are lowering our and future generations' quality of life. 
 
-People should know what are their roles and responsibilities in the preservation of these resources and what are the activities they are doing that directly affect the environment. As for the industries, they should be aware of their contribution to the depletion of resources and what solutions they can provide to solve these issues. The inefficient consumption of natural resources will eventually lead to catastrophic effects such as shortage of basic needs, economic problems and disasters. 
+<p align="justify">People should know what are their roles and responsibilities in the preservation of these resources and what are the activities they are doing that directly affect the environment. As for the industries, they should be aware of their contribution to the depletion of resources and what solutions they can provide to solve these issues. The inefficient consumption of natural resources will eventually lead to catastrophic effects such as shortage of basic needs, economic problems and disasters. 
 
-The dilemmas suggest that identifying these circumstances allowed the researchers to study datasets in line with the ambition to provide an explanation that could be implied to the consumers in a society. The efficacy of the idea will likely lead to a better outcome to prevent the lackage of resources and how to improve or fasten the production through sustainable consumption. </p>
+<p align="justify">The problems suggest that identifying these circumstances allowed the researchers to study datasets in line with the ambition to provide an explanation that could be implied to the consumers in a society. The efficacy of the idea will likely lead to a better outcome to prevent the lackage of resources and how to improve or fasten the production through sustainable consumption. </p>
 
 ## Significance of the Proposed Study
 <p align="justify">Through the exploratory data analysis (EDA) to be conducted on the world’s ecological footprint and its projected impact to society, there will be an expansion on the present knowledge of the effects of issues involved.  The contributing factors in the depletion of resources will enable the community to have supply shortage at high demands, and give rise to inflation that could affect not only one country but the whole world’s market.
 
-In this regard, this study will grant awareness to the community, nation and the world at length in creating a habit that could be the match up to have a refinement of the resources used daily. This study not only will make people wise get wind of the facts on how to sustainably consume, but additionally allow them to recognize the practices in durable consumer goods.  Moreover, add to the improvement of the world’s ecological footprint. </p>
+<p align="justify">In this regard, this study will grant awareness to the community, nation and the world at length in creating a habit that could be the match up to have a refinement of the resources used daily. This study not only will make people wise get wind of the facts on how to sustainably consume, but additionally allow them to recognize the practices in durable consumer goods.  Moreover, add to the improvement of the world’s ecological footprint. </p>
 
 ## Methods
 <p align="justify"> The general objective of this study is to gain a better understanding of the current state of the ecosystem in terms of ecological footprint (the measure of ecological assets required to produce the resources people need) and biocapacity (the measure of productivity of ecological assets in a specific location). 
@@ -61,7 +61,7 @@ In this regard, this study will grant awareness to the community, nation and the
   4. Explain the contribution of humans and industries in different countries to the problem of ecological deficit.
   5. Figure out which countries have reserves and deficit in ecological resources and by what amount.
 
-To achieve these objectives the researcher will use quantitative data analysis or deriving numerical insights from raw data and qualitative data analysis such as grounded theory which involve the following process:
+<p align="justify">To achieve these objectives the researcher will use quantitative data analysis or deriving numerical insights from raw data and qualitative data analysis such as grounded theory which involve the following process:
   1. Data Requirement Gathering. This process involves analyzing the significance of this topic and knowing what kind of data is required to meet the objectives.
   2. Data Collection. This process includes looking for datasets that are relevant to the topic. Through the guidance of the requirements we identified, we look for different sources of data.
   3. Data Cleaning. This process includes removing unnecessary data, transforming some data into the appropriate format so that we can maintain consistency throughout the process.
@@ -70,10 +70,23 @@ To achieve these objectives the researcher will use quantitative data analysis o
   6. Data Visualization. This process includes presenting the information  in a graphical format so that people can read and understand it easily. </p>
 
 ## Expected Output
-<p align="justify">This research is anticipated to visualize data through EDA in calculating the world's ecological footprint. With this, the factors affecting the ecological deficit can be identified; the country which has a surplus in biocapacity over the ecosystem's regeneration; the ecological footprint agent that lacks in most nations in the world. In accordance to the datasets provided by the Global Footprint Network, et. al, will be the basis of the assumptions for the provision of solution in the identification of the said cases and more. This acknowledges the proposed habits in surpassing the numbers in a country's ecological footprint and outdo the deficiency of the lands, forest, fisheries, etc. in regards to the consumption of the exceeding population.<p>
 
 
 ## Data Sets
 [2016 Global Ecological Footprint.pdf](https://github.com/erickajanecm/Ecological-Footprint-EDA/files/8427176/2016.Global.Ecological.Footprint.pdf)
 
+## References
+[World Population Clock: 7.9 Billion People (2022)](https://www.worldometers.info/world-population/#:~:text=7.9%20Billion%20(2022),Nations%20estimates%20elaborated%20by%20Worldometer)
+
+[10 Daily Habits That are Killing the Environment - One Green Planet](https://www.onegreenplanet.org/lifestyle/10-daily-habits-that-are-killing-the-environment/?fbclid=IwAR1vIGqSbjdSOv9RH63dtRYgLHQjZ9EBwc7KplKeF7khgivVsCzFdHHTQ6M)
+
+[What is Data Analysis? Types, Methods and Techniques [2022 Edition]](https://www.simplilearn.com/data-analysis-methods-process-types-article)
+
+[Open Data Platform (footprintnetwork.org)](https://data.footprintnetwork.org/#/countryTrends?cn=5001&type=earth)
+
+[Ecological Footprint - Global Footprint Network](https://www.footprintnetwork.org/our-work/ecological-footprint/?fbclid=IwAR3VQMCVPX-wBcTolLcIS42tz7gY5lBx3-I19iHZPIUkHhIqwp2IDYCzh_I)
+
+[Earth Overshoot Day 2021 - #MoveTheDate](https://www.overshootday.org/?fbclid=IwAR06lZTlz_O0RJEQRLaqTdRM4f_OzHrG8g55R2sGjcm7wkxVAWCutEkRnFw)
+
+[10 Solutions for Natural Resource Depletion — Veterans Off-Grid (veteransoffgrid.org)](https://www.veteransoffgrid.org/blog/10-solutions-for-natural-resource-depletion)
 
