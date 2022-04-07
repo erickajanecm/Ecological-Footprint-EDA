@@ -1,5 +1,5 @@
 # Digging Insights Regarding Ecological Footprint and Sustainable Development through Exploratory Data Analysis
-by <br>
+JARET Codes <br>
 Bello, Thom Carlo L.<br>
 Cabatay, Robert C.<br>
 De Chavez, Alfrederick M.<br>
@@ -31,7 +31,11 @@ Many organizations, especially the United Nation are conducting and implementing
  - Implementing more renewable energy equipment such as solar panels/funnels, power plants, etc. 
  - Harnessing environmental power which is very sustainable as it prevents burning of oils to produce electricity. 
 
-  It is important that people are aware of how much they are consuming and what impact they have on the environment. Ecological footprint is a way to measure resource consumption. It compares human demand on nature with the biosphere’s ability to regenerate resources and provide services. According to these measurements, in the past few years, the consumption of Earth’s resources exceeds the amount of resources it can produce globally. This basically means that people are overconsuming and exhausting resources that are for the future. We have what we called Earth’s Overshoot Day which marks the date when humanities demands for ecological resources and services in a given year exceeds what Earth can regenerate in that year. In 2021, it fell on July 29. So from July 30 to the end of the year, the people will overconsume. </p>
+  It is important that people are aware of how much they are consuming and what impact they have on the environment. Ecological footprint is a way to measure resource consumption. It compares human demand on nature with the biosphere’s ability to regenerate resources and provide services. According to these measurements, in the past few years, the consumption of Earth’s resources exceeds the amount of resources it can produce globally. This basically means that people are overconsuming and exhausting resources that are for the future. We have what we called Earth’s Overshoot Day which marks the date when humanities demands for ecological resources and services in a given year exceeds what Earth can regenerate in that year. In 2021, it fell on July 29. So from July 30 to the end of the year, the people will overconsume. 
+  
+  The current human population today reached 7.9 billion, which exceeded its expectation due to the uprising of the pandemic. By 2023, the United Nations expects the population to reach 8 billion people, there is an estimation that 385,000 babies are born everyday which tells that by December the population will increase by 3,080,000. It is obvious that there will be a time that the whole world might experience the overshoot day. Its effects are unlikely good to the community and human activities that affect the ecological footprint should be minimized.
+
+With these dilemmas people are experiencing, the researchers propose an activity that copes under the 12th Sustainable Development Goal — Responsible Consumption and Production. Its aim is to provide solutions that will help ease the world’s consumption and increase resources production and fasten regeneration.</p>
   
 ## Problem Statement 
 <p align="justify">The depletion of environmental resources can be attributed to overpopulation. An increase in population means more demand for the basic needs that come from nature. However, a bigger factor that contributes to exhaustion of environmental resources is the inefficient way humanity is using them. In recent years, the world consumes more than the renewable resources can regenerate, yet many people still experience hunger and shortage of supply. Although there are many different ways in which people can create positive contributions, the majority of them are not aware of their individual impact on the environment. 
