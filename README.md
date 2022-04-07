@@ -71,11 +71,38 @@ Many organizations, especially the United Nation are conducting and implementing
 
 ## Expected Output
 
+The factors affecting the degradation of our natural resources vary depending on the location and economic status of the involved entity but the idea of what constitutes sustainable consumption and production remains the same. 
+
+A comprehensive guide for reducing the ecological footprint is the expected outcome of this research. The knowledge extracted from this research can be useful for filling the gap between the current, and the ideal state of our ecosystem. 
+
+This research is expected to present and interpret the knowledge extracted from the study in a comprehensive way through visualization. With this, the factors affecting the ecological deficit can be identified; the country which has a surplus in biocapacity over the ecosystem's regeneration; the ecological footprint agent that lacks in most nations in the world. In accordance with the datasets provided by the Global Footprint Network, et. al, will be the basis of the assumptions for the provision of solution in the identification of the said cases and more. This acknowledges the proposed habits in surpassing the numbers in a country's ecological footprint and outdo the deficiency of the lands, forest, fisheries, etc. in regards to the consumption of the exceeding population.
+
+
 
 ## Data Sets
-[2016 Global Ecological Footprint.pdf](https://github.com/erickajanecm/Ecological-Footprint-EDA/files/8427176/2016.Global.Ecological.Footprint.pdf)
 
-[Open Data Network Country Trends.pdf](https://github.com/erickajanecm/Ecological-Footprint-EDA/files/8438990/Open.Data.Network.Country.Trends.pdf)
+Waste Disposal
+
+https://datacatalog.worldbank.org/search/dataset/0039597
+
+Food Waste
+
+https://www.fao.org/platform-food-loss-waste/flw-data/en/
+
+Global Power Plant
+
+https://datasets.wri.org/dataset/globalpowerplantdatabase
+
+CO2 Emissions
+
+https://github.com/owid/co2-data
+
+Ecological Footprint
+
+https://www.kaggle.com/datasets/footprintnetwork/ecological-footprint
+
+https://data.footprintnetwork.org/#/countryTrends?cn=5001&type=earth
+
 
 ## References
 [World Population Clock: 7.9 Billion People (2022)](https://www.worldometers.info/world-population/#:~:text=7.9%20Billion%20(2022),Nations%20estimates%20elaborated%20by%20Worldometer)
