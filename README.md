@@ -1,10 +1,10 @@
 # Digging Insights Regarding Ecological Footprint and Sustainable Development through Exploratory Data Analysis
 JARET Codes <br>
-Bello, Thom Carlo L.<br>
-Cabatay, Robert C.<br>
-De Chavez, Alfrederick M.<br>
-Macatol, Ericka Jane C.<br>
-Ronquillo, Julius P.
+> Bello, Thom Carlo L.<br>
+> Cabatay, Robert C.<br>
+> De Chavez, Alfrederick M.<br>
+> Macatol, Ericka Jane C.<br>
+> Ronquillo, Julius P.
 
 ## Introduction
 <p align="justify">Humanity depends on Earth for resources to fulfill their needs including food, air, water, minerals, soil, energy, plants and animals. Some of these resources are renewable and can be replaced but there will come a time that the non-renewable resources will be depleted. When people eat their food, drink water, use electronic devices and drive their car, they are contributing to the depletion of resources.</p>
