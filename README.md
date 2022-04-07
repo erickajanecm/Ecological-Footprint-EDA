@@ -61,19 +61,20 @@ Many organizations, especially the United Nation are conducting and implementing
   4. Explain the contribution of humans and industries in different countries to the problem of ecological deficit.
   5. Figure out which countries have reserves and deficit in ecological resources and by what amount.
 
-<p align="justify">To achieve these objectives the researcher will use quantitative data analysis or deriving numerical insights from raw data and qualitative data analysis such as grounded theory which involve the following process:
+<p align="justify">To achieve these objectives the researcher will use quantitative data analysis or deriving numerical insights from raw data and some qualitative data analysis such as grounded theory,these involves the following process:
+  
   1. Data Requirement Gathering. This process involves analyzing the significance of this topic and knowing what kind of data is required to meet the objectives.
   2. Data Collection. This process includes looking for datasets that are relevant to the topic. Through the guidance of the requirements we identified, we look for different sources of data.
   3. Data Cleaning. This process includes removing unnecessary data, transforming some data into the appropriate format so that we can maintain consistency throughout the process.
   4. Data Analysis. This process involves extracting useful insights from the data. We will use Python libraries such as NumPy, Pandas and some visualization tools.
-  5. Data Interpretation. This process includes summarizing the results of data analysis and transforming them into useful knowledge.
+  5. Data Interpretation. This process includes summarizing the results of data analysis and transforming them into useful knowledge. 
   6. Data Visualization. This process includes presenting the information  in a graphical format so that people can read and understand it easily. </p>
 
 ## Expected Output
 
 The factors affecting the degradation of our natural resources vary depending on the location and economic status of the involved entity but the idea of what constitutes sustainable consumption and production remains the same. 
 
-A comprehensive guide for reducing the ecological footprint is the expected outcome of this research. The knowledge extracted from this research can be useful for filling the gap between the current, and the ideal state of our ecosystem. 
+A comprehensive guide for reducing the ecological footprint is the expected outcome of this research. The knowledge extracted from this research can be useful for filling the gap between the current, and the ideal state of our ecosystem.  It will provide the necessary insights for people, industries and policy makers in developing solutions for ecological sustainability. 
 
 This research is expected to present and interpret the knowledge extracted from the study in a comprehensive way through visualization. With this, the factors affecting the ecological deficit can be identified; the country which has a surplus in biocapacity over the ecosystem's regeneration; the ecological footprint agent that lacks in most nations in the world. In accordance with the datasets provided by the Global Footprint Network, et. al, will be the basis of the assumptions for the provision of solution in the identification of the said cases and more. This acknowledges the proposed habits in surpassing the numbers in a country's ecological footprint and outdo the deficiency of the lands, forest, fisheries, etc. in regards to the consumption of the exceeding population.
 
