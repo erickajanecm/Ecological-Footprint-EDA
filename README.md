@@ -9,7 +9,7 @@ JARET Codes <br>
 ## Introduction
 <p align="justify">Humanity depends on Earth for resources to fulfill their needs including food, air, water, minerals, soil, energy, plants and animals. Some of these resources are renewable and can be replaced but there will come a time that the non-renewable resources will be depleted. When people eat their food, drink water, use electronic devices and drive their car, they are contributing to the depletion of resources.</p>
   
-  The problem of resource depletion is not necessarily limited to the consumption of the resources itself but the unsustainable and irresponsible ways people and industries use them. It starts on the households when people: 
+<p align="justify">The problem of resource depletion is not necessarily limited to the consumption of the resources itself but the unsustainable and irresponsible ways people and industries use them. It starts on the households when people: 
  - Leave the lights on when it is not in use which consumes unnecessary energy that cannot be regenerated.
  - Use their computers and smartphones excessively which contributes to much carbon footprint. 
  - Boils too much water when cooking or preparing something to eat or drink. 
