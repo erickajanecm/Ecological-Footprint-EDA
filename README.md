@@ -120,3 +120,4 @@ https://data.footprintnetwork.org/#/countryTrends?cn=5001&type=earth
 
 [10 Solutions for Natural Resource Depletion — Veterans Off-Grid (veteransoffgrid.org)](https://www.veteransoffgrid.org/blog/10-solutions-for-natural-resource-depletion)
 
+[FAQ - Global Ecological Footprint](https://www.footprintnetwork.org/faq/#:~:text=Biologically%20productive%20areas%20include%20cropland%2C%20forest%20and%20fishing,land%20to%20be%20compared%20using%20a%20common%20denominator.)
