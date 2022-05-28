@@ -37,7 +37,9 @@ Many organizations, especially the United Nation are conducting and implementing
 
 <p align="justify">With these dilemmas people are experiencing, the researchers propose an activity that copes under the 12th Sustainable Development Goal — Responsible Consumption and Production. Its aim is to provide solutions that will help ease the world’s consumption and increase resources production and fasten regeneration.</p>
   
-## Problem Statement 
+## Problem Statement
+<img src="https://github.com/erickajanecm/Ecological-Footprint-EDA/blob/main/sdg%2012.png">
+
 <p align="justify">The depletion of environmental resources can be attributed to overpopulation. An increase in population means more demand for the basic needs that come from nature. However, a bigger factor that contributes to exhaustion of environmental resources is the inefficient way humanity is using them. In recent years, the world consumes more than the renewable resources can regenerate, yet many people still experience hunger and shortage of supply. Although there are many different ways in which people can create positive contributions, the majority of them are not aware of their individual impact on the environment. 
 
 <p align="justify">It is comprehensible that a range of issues that are very difficult to manage and regulate is contributing to resource depletion. Natural resources are continuously declining and are being used faster than they can be replenished. The lack of awareness about the current status of our ecosystem will result in continuous over-exploitation or worse running out of resources. Our actions as a society are lowering our and future generations' quality of life. 
