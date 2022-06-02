@@ -41,6 +41,7 @@ Many organizations, especially the United Nation are conducting and implementing
   
 ## Problem Statement
 <img src="https://github.com/erickajanecm/Ecological-Footprint-EDA/blob/main/sdg%2012.png">
+<img src="https://github.com/erickajanecm/Ecological-Footprint-EDA/blob/main/sdg%2013.png">
 
 <p align="justify">The depletion of environmental resources can be attributed to overpopulation. An increase in population means more demand for the basic needs that come from nature. However, a bigger factor that contributes to exhaustion of environmental resources is the inefficient way humanity is using them. In recent years, the world consumes more than the renewable resources can regenerate, yet many people still experience hunger and shortage of supply. Although there are many different ways in which people can create positive contributions, the majority of them are not aware of their individual impact on the environment. 
 
