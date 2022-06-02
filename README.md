@@ -26,7 +26,7 @@ JARET Codes <br>
 <p align="justify">The world can already feel the effects of unsustainable ways we are consuming our resources and abusing the planet. Some places in the world are experiencing water, oil and gas shortages, the species of animals becoming extinct. In the future, the impact of human activities will become even more dangerous. 
 Many organizations, especially the United Nation are conducting and implementing programs for responsible consumption of resources. The government regulates policies that improve sustainability. Some of these solutions include: 
  - Implementing more power-efficient devices.
- - Reducing deforestation activities and tree planting programs
+ - Reducing deforestation activities and tree planting programs.
  - Recycling and reusing materials.
  - Practicing sustainable agriculture. 
  - Improving waste management.
@@ -62,9 +62,9 @@ Many organizations, especially the United Nation are conducting and implementing
   Specifically, it aims to: 
   1. Extract hidden knowledge about the different factors that affect the environment positively and negatively.
   2. Define the numerical details of how each individual person contributes to the exhaustion of natural resources.
-  3. Understand the implications of continuous depletion of natural resources to the future.
-  4. Explain the contribution of humans and industries in different countries to the problem of ecological deficit.
-  5. Figure out which countries have reserves and deficit in ecological resources and by what amount.
+  3. Understand the implications of continuous depletion of natural resources to the future. 
+  4. Explain the contribution of humans and industries in different countries to the problem of ecological deficit. 
+  5. Figure out which countries have reserves and deficit in ecological resources and by what amount. 
 
 <p align="justify">To achieve these objectives the researcher will use quantitative data analysis or deriving numerical insights from raw data and some qualitative data analysis such as grounded theory,these involves the following process:
   
@@ -77,7 +77,7 @@ Many organizations, especially the United Nation are conducting and implementing
 
 ## Expected Output
 
-<p align="justify">The factors affecting the degradation of our natural resources vary depending on the location and economic status of the involved entity but the idea of what constitutes sustainable consumption and production remains the same. 
+<p align="justify">The factors affecting the degradation of our natural resources vary depending on the location and economic status of the involved entity but the idea of what constitutes sustainable consumption and production remains the same.  
 
 <p align="justify">A comprehensive guide for reducing the ecological footprint is the expected outcome of this research. The knowledge extracted from this research can be useful for filling the gap between the current, and the ideal state of our ecosystem.  It will provide the necessary insights for people, industries and policy makers in developing solutions for ecological sustainability. 
 
