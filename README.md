@@ -82,6 +82,9 @@ Many organizations, especially the United Nation are conducting and implementing
 <p align="justify">A comprehensive guide for reducing the ecological footprint is the expected outcome of this research. The knowledge extracted from this research can be useful for filling the gap between the current, and the ideal state of our ecosystem.  It will provide the necessary insights for people, industries and policy makers in developing solutions for ecological sustainability. 
 
 <p align="justify">Additionally, this research is expected to present and interpret the knowledge in a comprehensive way through visualization. With this, the factors affecting the ecological deficit can be identified; the country which has a surplus in biocapacity over the ecosystem's regeneration; the ecological footprint agent that lacks in most nations in the world. In accordance with the datasets provided by the Global Footprint Network, et. al, will be the basis of the assumptions for the provision of solution in the identification of the said cases and more. This acknowledges the proposed habits in surpassing the numbers in a country's ecological footprint and outdo the deficiency of the lands, forest, fisheries, etc. in regards to the consumption of the exceeding population.
+  
+## Video Presentation
+https://drive.google.com/file/d/1-mngUu6bcEpwkQKti9JxquSMtleQruGw/view?fbclid=IwAR39bBppId3Pax1Wqbcr3uC3eqn2cyvP1TpFt3T0pski00hX1SmkIGUpDlA
 
 
 
