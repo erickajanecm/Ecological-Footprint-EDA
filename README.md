@@ -1,7 +1,7 @@
 # Digging Insights Regarding Ecological Footprint and Sustainable Development through Exploratory Data Analysis
 
-IT-BA-3208 <br>
-JARET Codes <br>
+***IT-BA-3208*** <br>
+***JARET Codes*** <br>
 > Bello, Thom Carlo L.<br>
 > Cabatay, Robert C.<br>
 > De Chavez, Alfrederick M.<br>
