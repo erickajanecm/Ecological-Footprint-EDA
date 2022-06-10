@@ -1,4 +1,7 @@
-# Digging Insights Regarding Ecological Footprint and Sustainable Development through Exploratory Data Analysis
+<img src="https://user-images.githubusercontent.com/102709503/173016763-2172ce0c-2480-4862-a430-d11c08486660.png">
+
+# <p align = "center"> Digging Insights Regarding Ecological Footprint and Sustainable Development through Exploratory Data Analysis
+<img src="https://user-images.githubusercontent.com/102709503/173016408-a1043cdb-3e89-48db-817f-c9da59d477bf.png">
 
 ***IT-BA-3208*** <br>
 ***JARET Codes*** <br>
